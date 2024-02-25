@@ -1,6 +1,6 @@
 
   # Gol
-YOUTUBE VIDEO - <code><a href= "https://youtu.be/XU11FVOkBlo"> What is Gol  </a>
+YOUTUBE VIDEO - <a href= "https://youtu.be/XU11FVOkBlo"> What is Gol ?  </a>
   
 Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
